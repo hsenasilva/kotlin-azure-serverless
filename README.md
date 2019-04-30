@@ -26,18 +26,21 @@ Getting Started
 
         $ az login
 
-4. Install dependencies.
+4. Install Azure Functions Core Tools. See https://aka.ms/azfunc-install
+
+
+5. Install dependencies.
 
         $ mvn clean install
 
-5. Compile Kotlin.
+6. Compile Kotlin.
 
         $ mvn kotlin:compile package
 
-6. Run. (Run locally)
+7. Run. (Run locally)
         
         $ mvn azure-functions:run
 
-7. Deploy to Azure. (Deploy and run on Azure)
+8. Deploy to Azure. (Deploy and run on Azure)
 
         $ mvn azure-functions:deploy
