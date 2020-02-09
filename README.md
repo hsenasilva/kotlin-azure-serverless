@@ -1,7 +1,7 @@
 # kotlin-azure-serverless
 ====================================
 
-Sample Kotlin project with maven and Azure Functions.
+Sample Kotlin project with maven and [Azure Functions](https://azure.microsoft.com/en-us/services/functions/).
 
 What's Here
 -----------
